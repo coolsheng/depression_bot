@@ -4,8 +4,6 @@
     "description": "doing this for my bois in DC",
     "author": "jeff <shengzengg@gmail.com>",
     "dependencies": {
-        "discord.io": "^2.5.3",
-        "discord.js": "^11.3.2",
-        "winston": "^3.0.0"
+        "discord.js": "^11.3.2"
     }
 }
